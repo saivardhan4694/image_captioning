@@ -99,5 +99,3 @@ This setup allows for flexible and robust caption generation for new images, lev
 To utilize the image captioning model, make sure to have the required dependencies installed and prepare your dataset according to the guidelines provided in this repository. The generate_caption function is designed to produce captions for new images using the trained model, providing a straightforward way to test the model's performance.
 
 For example, you can generate a caption for an image by specifying the image path and calling the function. Ensure that the path to the image is correct and the image is properly formatted.
-
-This project is licensed under the MIT License. For further details, please refer to the LICENSE file included in the repository. Acknowledgments are due to the contributors and developers of the datasets and libraries utilized, whose work has greatly facilitated the development of this model.
